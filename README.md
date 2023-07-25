@@ -1,6 +1,6 @@
 ## Hi there, my name is Kevin William! 👋
 
-🎓 - Final year Computer Science student at Petra Christian University</br>
+🎓 - Computer Science Fresh Graduate from Petra Christian University</br>
 
 An output-oriented Computer Science undergraduate that is focused on achieving the planned outcome. Highly analytical, motivated, and skilled at problem-solving. I am a dependable person with strong attention to detail and eager to learn new skills in software engineering sector. Passionate to be a back-end developer.</br>
 
