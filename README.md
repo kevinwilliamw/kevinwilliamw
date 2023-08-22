@@ -1,8 +1,8 @@
 ## Hi there, my name is Kevin William! 👋
 
-🎓 - Computer Science Fresh Graduate from Petra Christian University</br>
+🎓 - Computer Science Graduate from Petra Christian University</br>
 
-An output-oriented Computer Science undergraduate that is focused on achieving the planned outcome. Highly analytical, motivated, and skilled at problem-solving. I am a dependable person with strong attention to detail and eager to learn new skills in software engineering sector.</br>
+A software engineer who is committed to lifelong learning and continuous growth to deliver impactful contributions to society. I’m a Computer Science graduate from Petra Christian University, based in Surabaya, East Java. Throughout my college years, I have obtained industrial hands-on experience in web application development, unit testing, and highly analytical problem solving. </br>
 
 ## Contact Me
 
